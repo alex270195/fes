@@ -1,0 +1,14 @@
+C:\Users\Administrator\YandexDisk\ДИПЛОМ\FES\FES\bin\Debug\FES.exe.config
+C:\Users\Administrator\YandexDisk\ДИПЛОМ\FES\FES\obj\Debug\FES.exe
+C:\Users\Administrator\YandexDisk\ДИПЛОМ\FES\FES\obj\Debug\FES.pdb
+C:\Users\Administrator\YandexDisk\ДИПЛОМ\FES\FES\bin\Debug\DatabaseCrs.mdf
+C:\Users\Administrator\YandexDisk\ДИПЛОМ\FES\FES\bin\Debug\DatabaseCrs_log.ldf
+C:\Users\Administrator\YandexDisk\ДИПЛОМ\FES\FES\bin\Debug\FES.exe
+C:\Users\Administrator\YandexDisk\ДИПЛОМ\FES\FES\bin\Debug\FES.pdb
+C:\Users\Administrator\YandexDisk\ДИПЛОМ\FES\FES\obj\Debug\FES.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\YandexDisk\ДИПЛОМ\FES\FES\obj\Debug\FES.Interface.resources
+C:\Users\Administrator\YandexDisk\ДИПЛОМ\FES\FES\obj\Debug\FES.Properties.Resources.resources
+C:\Users\Administrator\YandexDisk\ДИПЛОМ\FES\FES\obj\Debug\FES.spectr.resources
+C:\Users\Administrator\YandexDisk\ДИПЛОМ\FES\FES\obj\Debug\FES.TableCrossSection.resources
+C:\Users\Administrator\YandexDisk\ДИПЛОМ\FES\FES\obj\Debug\FES.csproj.GenerateResource.Cache
+C:\Users\Administrator\YandexDisk\ДИПЛОМ\FES\FES\obj\Debug\FES.tabCrs.resources
